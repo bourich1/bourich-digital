@@ -1,0 +1,5 @@
+{
+  "name": "Bourich Digital",
+  "description": "A full-featured web platform for digital tools with an admin panel and dynamic frontend.",
+  "requestFramePermissions": ["microphone"]
+}
